@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "b62709613c1892ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dc1c7132d9a0486",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aventuriers/Prémisce.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bd47af6102f8908",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e1fa21c1f45eb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1999bff37aaa21a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f6fa51c023fc07e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "640c0eee68636232",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52adabf44f710457",
+    "type": "split",
+    "children": [
+      {
+        "id": "aef7cb48fec39332",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6db017fd89bdae5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aventuriers/Prémisce.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a11ac1bdcc5fb705",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aventuriers/Prémisce.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3749c4a7af8efd4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34a663fc6916df63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aventuriers/Prémisce.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5dc1c7132d9a0486",
+  "lastOpenFiles": [
+    "Aventuriers/Prémisce.md",
+    "Ville Principale.md"
+  ]
+}
