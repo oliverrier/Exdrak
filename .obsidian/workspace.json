@@ -13,14 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World.md",
+                "file": "Ville Principale.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca0aa2ba8202f39a",
+            "id": "5fbb44c167144139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Le Murmure des dragons/Le murmure des dragons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfcb257afda80da2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,15 +158,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e09c59b909b86dfe",
+  "active": "bfcb257afda80da2",
   "lastOpenFiles": [
-    "Calendrier.md",
-    "World.md"
+    "Le Murmure des dragons/Serment Draconique.md",
+    "Le Murmure des dragons/Le murmure des dragons.md",
+    "Le Murmure des dragons/Couleur de l'embleme.md",
+    "Ville Principale.md",
+    "World.md",
+    "Calendrier.md"
   ]
 }
